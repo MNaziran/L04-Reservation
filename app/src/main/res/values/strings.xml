@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reset">Reset</string>
+    <string name="display_time">DISPLAY TIME</string>
+    <string name="display_date">DISPLAY DATE</string>
+    <string name="name">Name:</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="mobile">Mobile:</string>
+    <string name="enter_mobile_number_here">Enter Mobile Number here</string>
+    <string name="submit">Submit</string>
+    <string name="non_smoking_area">Non Smoking Area</string>
+    <string name="smoking_area">Smoking Area</string>
+    <string name="enter_number_of_pax_here">Enter Number of Pax here</string>
+    <string name="number_of_pax">Number of Pax:</string>
+</resources>
